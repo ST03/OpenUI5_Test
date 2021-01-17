@@ -1,0 +1,8 @@
+<mvc:View
+   controllerName="open.ui.test.landing.controller.App"
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">
+   <Button
+      text="테스트 1번"
+      press=".onShowDevInProc"/>
+</mvc:View>
